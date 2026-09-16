@@ -7,7 +7,7 @@
 [![Kernel](https://img.shields.io/badge/Kernel-4.19.325-blue?style=for-the-badge)](https://www.kernel.org/)
 [![BBRv3](https://img.shields.io/badge/TCP-BBRv3-orange?style=for-the-badge)](https://github.com/google/bbr)
 [![Clang](https://img.shields.io/badge/Clang-24-purple?style=for-the-badge)](https://clang.llvm.org/)
-[![Android](https://img.shields.io/badge/Android-12--16-green?style=for-the-badge)](https://www.android.com/)
+[![Android](https://img.shields.io/badge/Android-15--16-green?style=for-the-badge)](https://www.android.com/)
 
 **Performance-focused kernel with BBRv3 network optimization**
 
