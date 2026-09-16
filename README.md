@@ -45,14 +45,6 @@
 - AnyKernel3 — works with any ROM
 - Magisk / KernelSU friendly
 
-## 📥 Download
-
-> **Latest Release**: [StormTerror-Rosemary-BBRv3.zip](https://github.com/Syqmhmmd/StormTerror-Rosemary-BBRv3/releases/latest)
-
-| Version | File | Size | Date |
-|---------|------|------|------|
-| `4.19.325-StromTerror-perf` | [StormTerror-Rosemary-BBRv3.zip](./StormTerror-Rosemary-BBRv3.zip) | ~20 MB | 2026-09-16 |
-
 ## 🚀 Installation
 
 ### Via TWRP Recovery
