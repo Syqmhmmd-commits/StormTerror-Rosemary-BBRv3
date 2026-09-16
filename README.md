@@ -11,7 +11,7 @@
 
 **Performance-focused kernel with BBRv3 network optimization**
 
-[Download]([#-download](https://github.com/Syqmhmmd-commits/StormTerror-Rosemary-BBRv3/releases/latest)) • [Features](#-features) • [Installation](#-installation) • [Source](#-source-code) • [Credits](#-credits)
+[Download](https://github.com/Syqmhmmd-commits/StormTerror-Rosemary-BBRv3/releases/latest) • [Features](#-features) • [Installation](#-installation) • [Source](#-source-code) • [Credits](#-credits)
 
 </div>
 
